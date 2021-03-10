@@ -2,6 +2,8 @@
 
 This application was generated using JHipster 6.8.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.8.0](https://www.jhipster.tech/documentation-archive/v6.8.0).
 
+https://dev.to/adyen/building-an-e-commerce-application-using-java-react-2iln
+
 The below environment variables must be set in order for the application to work properly and also for tests to run. Remember to add `http://localhost:8080` as an origin for client key.
 
 ```shell
